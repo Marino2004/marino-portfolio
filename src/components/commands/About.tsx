@@ -14,8 +14,8 @@ const About: React.FC = () => {
         Je suis un <HighlightAlt>développeur back-end</HighlightAlt> basé à Antananrivo Madagascar.
       </p>
       <p>
-        Je suis passionné par le coding <br />
-        Le développement d' applications informatique.
+        Je suis passionné par la programmqation <br />
+        Coder est ma  seconde nature.
       </p>
     </AboutWrapper>
   );
