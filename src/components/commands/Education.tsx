@@ -26,7 +26,7 @@ const eduBg = [
   },
   {
     title: "DSA",
-    desc: "42 Antananarivo | 2021",
+    desc: "42 Antananarivo | 2023",
   },
   {
     title: "BAC série C",

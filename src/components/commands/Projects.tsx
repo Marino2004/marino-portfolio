@@ -57,8 +57,8 @@ const projects = [
   {
     id: 1,
     title: "Site e-commerce",
-    desc: "En cours.",
-    url: "",
+    desc: "En cours de développement.",
+    url: "https://github.com/Marino2004",
   },
 ];
 
