@@ -1,5 +1,6 @@
 import About from "./commands/About";
 import Clear from "./commands/Clear";
+import Cv from "./commands/Cv";
 import Echo from "./commands/Echo";
 import Education from "./commands/Education";
 import Email from "./commands/Email";
@@ -40,10 +41,11 @@ const Output: React.FC<Props> = ({ index, cmd }) => {
           education: <Education />,
           email: <Email />,
           gui: <Gui />,
+          cv: <Cv />,
           help: <Help />,
           history: <History />,
           projects: <Projects />,
-          pwd: <GeneralOutput>/home/satnaing</GeneralOutput>,
+          pwd: <GeneralOutput>/home/marino</GeneralOutput>,
           socials: <Socials />,
           themes: <Themes />,
           welcome: <Welcome />,

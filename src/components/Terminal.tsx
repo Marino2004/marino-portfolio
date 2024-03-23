@@ -28,6 +28,7 @@ type Command = {
 
 export const commands: Command = [
   { cmd: "about", desc: "about de Miha Marino", tab: 8 },
+  { cmd: "cv", desc: "print my CV", tab: 11 },
   { cmd: "clear", desc: "clear the terminal", tab: 8 },
   { cmd: "echo", desc: "print out anything", tab: 9 },
   { cmd: "education", desc: "my education background", tab: 4 },
