@@ -10,7 +10,7 @@ const Gui: React.FC = () => {
 
   /* ===== check current command makes redirect ===== */
   if (rerender && currentCommand[0] === "cv") {
-    window.open("https://drive.google.com/file/d/1goWpECWTBEyCqlalCW_UAEpuSxmYM80v/view", "_blank");
+    window.open("https://drive.google.com/file/d/1mQ-137xG4AzVpxwnS4zQKyoQ-bj2nYYo/view?usp=drive_link", "_blank");
   }
 
   return <span></span>;
